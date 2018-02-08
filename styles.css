@@ -1,0 +1,45 @@
+body{
+    background-color: mediumaquamarine;
+    color:teal;
+}
+header,nav,footer{
+    text-align:center;
+}
+#title img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+#graphtitle {
+    font-size: 2em;
+}
+align-left{
+    display:block;
+    margin-left: auto;
+    width:50px;
+    height:50px;
+}
+#text{
+    float:right;
+    clear:both;
+}
+.btn-group button{
+    background-color: lightcyan;
+    color: mediumspringgreen;
+    border:1px blue;
+}
+.btn-group button:hover{
+    background-color: dodgerblue;
+    font-size: 1em;
+    transition:.7s;
+}
+#appImg{
+    text-align: right;
+}
+#appText table{
+    text-align: left;
+}
+#headerimg header{
+    text-align: left;
+}
