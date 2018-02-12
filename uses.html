@@ -16,7 +16,7 @@
         <nav>
             <hr width="50%"/>
             <div class="btn-group">
-                <a href="coverPage.html"><button>Home</button></a>
+                <a href="coverPage.php"><button>Home</button></a>
                 <a href="about.html"><button>About</button></a>
                 <a href="uses.html"><button>Uses</button></a>
                 <a href="applications.html"><button>Applications</button></a>  

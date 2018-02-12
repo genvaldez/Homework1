@@ -37,9 +37,16 @@ align-left{
 #appImg{
     text-align: right;
 }
-#appText table{
-    text-align: left;
-}
 #headerimg header{
     text-align: left;
+}.container{
+    position:relative;
+    text-align: center;
+    color:white;
+}
+.centered{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
 }
