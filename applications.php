@@ -15,10 +15,10 @@
         
         <nav>
             <div class="btn-group">
-                <a href="coverPage.php"><button>Home</button></a>
-                <a href="about.html"><button>About</button></a>
-                <a href="uses.html"><button>Uses</button></a>
-                <a href="applications.html"><button>Applications</button></a>  
+                <a href="index.php"><button>Home</button></a>
+                <a href="about.php"><button>About</button></a>
+                <a href="uses.php"><button>Uses</button></a>
+                <a href="applications.php"><button>Applications</button></a>  
             </div>
         </nav>
         <div class= "container">
